@@ -10,7 +10,7 @@
 
 ### 🔐 ssh-passwordless — SSH 免密登录配置工具集
 
-从"一闪而过"的踩坑到批量自动化，一套完整的 Windows → Linux SSH 免密配置方案。
+一套完整的 Windows → Linux SSH 免密配置方案，覆盖单台与批量场景。
 
 | 文件 | 说明 |
 |---|---|
@@ -21,7 +21,6 @@
 | `batch_ssh_setup.ps1` | **批量版**：CSV/TXT 清单、参数全变量化、SSH_ASKPASS 自动应答密码 |
 | `run_batch_ssh.cmd` | 批量脚本的双击启动器 |
 | `hosts_example.csv` / `hosts_example.txt` | 主机清单示例 |
-| `article-wechat.md` | 配套公众号文章：《从"一闪而过"到批量自动化》 |
 
 **快速开始（单台）：**
 
