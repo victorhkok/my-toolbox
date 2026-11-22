@@ -1,0 +1,4 @@
+Host,Port,User,Alias,Password
+192.168.1.10,22,youruser,ubuntu-lan,
+192.168.1.11,22,youruser,ubuntu-11,
+192.168.1.12,22,root,server-12,YourPasswordHere
